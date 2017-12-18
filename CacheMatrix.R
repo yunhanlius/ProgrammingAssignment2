@@ -31,7 +31,5 @@ cacheSolve <- function(x, ...) {
   i
 }
 
-B <- matrix(c(1,2,3,4),2,2)
-B1 <- makeCacheMatrix(B)
-cacheSolve(B1)
+
 
